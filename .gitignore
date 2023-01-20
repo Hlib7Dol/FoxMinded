@@ -1,0 +1,10 @@
+﻿################################################################################
+# Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/FoxMinded/.vs
+/FoxMinded/bin/Debug/net7.0
+/FoxMinded/obj
+/FoxMindedTests/bin/Debug/net7.0
+/FoxMindedTests/obj
